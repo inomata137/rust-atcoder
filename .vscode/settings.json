@@ -2,8 +2,9 @@
     "editor.indentSize": 4,
     "rust-analyzer.linkedProjects": [
         "template/Cargo.toml",
+        "init/Cargo.toml",
         "abc086a/Cargo.toml",
         "abc081b/Cargo.toml",
-        "abc085c/Cargo.toml",
+        "abc085c/Cargo.toml"
     ]
 }
