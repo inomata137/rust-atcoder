@@ -5,6 +5,7 @@
         "init/Cargo.toml",
         "abc086a/Cargo.toml",
         "abc081b/Cargo.toml",
-        "abc085c/Cargo.toml"
+        "abc085c/Cargo.toml",
+        "abc049c/Cargo.toml"
     ]
 }
