@@ -3,7 +3,6 @@ use std::env;
 mod copy;
 mod json;
 
-#[allow(unused)]
 fn main() {
     let path = "./.vscode/settings.json";
     let field = "rust-analyzer.linkedProjects";
