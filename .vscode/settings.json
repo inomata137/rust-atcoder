@@ -14,6 +14,8 @@
         "abc312d/Cargo.toml",
         "abc312e/Cargo.toml",
         "abc312f/Cargo.toml",
-        "abc311a/Cargo.toml"
+        "abc311a/Cargo.toml",
+        "abc311b/Cargo.toml",
+        "abc311c/Cargo.toml"
     ]
 }
