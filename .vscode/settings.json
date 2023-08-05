@@ -19,6 +19,7 @@
         "abc311c/Cargo.toml",
         "abc311d/Cargo.toml",
         "abc311e/Cargo.toml",
-        "typ006/Cargo.toml"
+        "typ006/Cargo.toml",
+        "typ013/Cargo.toml"
     ]
 }

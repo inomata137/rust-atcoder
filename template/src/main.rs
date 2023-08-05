@@ -1,4 +1,9 @@
-use proconio::input;
+#[allow(unused)]
+use proconio::{input, marker::{Chars, Usize1}};
+#[allow(unused)]
+use std::collections::*;
+#[allow(unused)]
+const USIZE_MAX: usize = 18_446_744_073_709_551_615usize;
 
 fn main() {
     input! {
